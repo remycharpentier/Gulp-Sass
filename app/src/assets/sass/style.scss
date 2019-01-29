@@ -1,4 +1,4 @@
-body{
+.body-login{
     background-image: url("/dist/assets/img/oliver-sjostrom-597489-unsplash.png");
 }
 .header{
@@ -51,4 +51,39 @@ body{
    padding-right: 115px;
    border-radius: 20px;
    margin-bottom: 100px;
+}
+/**********************************************LIST*********************************************/
+
+.card-text.texte{
+    font-size: 12px;
+    color: gray;
+}
+
+.lush{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.btn-jaune{
+    background-color: rgb(255, 210, 61);
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px; 
+    padding-top: 1px;
+    padding-bottom:1px;
+    margin-top: 20px;
+}
+.btn-jaune1{
+    background-color: rgb(255, 210, 61);
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px; 
+    padding-top: 1px;
+    padding-bottom:1px;
+    position: relative;
+    bottom: 15px;
+}
+.jaune1{
+    text-align: center;
+
 }
