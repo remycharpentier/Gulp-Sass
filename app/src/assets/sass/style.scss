@@ -1,0 +1,54 @@
+body{
+    background-image: url("/dist/assets/img/oliver-sjostrom-597489-unsplash.png");
+}
+.header{
+    color: white;
+    margin-top: 10px;
+}
+    
+.heure{
+    margin-left: 30px;
+}
+.fa-signal{
+    margin-left: 60%;
+}
+
+
+.milieu img{
+    margin-top: 50%;
+    margin-left: 20%;
+    
+}
+.milieu h6{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+    
+}
+
+.bouton{
+   
+    margin-top: 75%;
+    text-align: center;
+}
+.btn-blanc{
+    background-color: white;
+  
+    color: rgb(55, 66, 231);
+
+   margin-bottom: 20px;
+   padding-left: 115px;
+   padding-right: 115px;
+   border-radius: 20px;
+}
+.btn-bleu{
+    background-color: rgb(55, 66, 231);
+   
+   color: white;
+ 
+   padding-left: 115px;
+   padding-right: 115px;
+   border-radius: 20px;
+   margin-bottom: 100px;
+}
