@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 nodes_modules
 .bundle
 .DS_Store
@@ -7,6 +6,3 @@ log/*.log
 tmp/
 public/system/images/
 public/system/avatars/
-=======
-node_modules
->>>>>>> master
