@@ -1,0 +1,212 @@
+/*****************SEARCH**********/
+.btn-search {
+  position: relative;
+  bottom: 23px;
+  left: 333px;
+  border: #fff;
+  background-color: #fff;
+}
+
+.input-search {
+  width: 343px;
+  padding-left: 50px;
+  border: #fff;
+}
+
+.fleche-search {
+  position: relative;
+  top: 26px;
+  padding-left: 20px;
+}
+
+.choix-search {
+  font-weight: bold;
+  text-align: center;
+}
+
+.trips-search {
+  border-bottom: solid 5px #e6e6e6;
+}
+
+.people-search {
+  border-bottom: solid 5px #f3c90f;
+}
+
+.box-grp-search {
+  margin-top: 40px;
+}
+
+.name-search {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.ta-center {
+  text-align: center;
+}
+
+.btn-follow-search {
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 0 20px;
+  border: solid 2px #007bff;
+  border-radius: 50px;
+}
+
+.nav-bar-bot {
+  margin-top: 20px;
+  padding: 20px 0;
+  border-top: rgba(56, 56, 56, .1) solid 3px;
+}
+
+.nav-bar-bot2,
+.nav-bar-bot3 {
+  padding-bottom: 20px;
+  border-bottom: rgba(56, 56, 56, .4) solid 4px;
+}
+
+/***************LIST*********************/
+.tilte-list {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.search-bar-list {
+  margin-bottom: 10px;
+}
+
+.loupe-list {
+  position: relative;
+  top: 5px;
+  left: 16px;
+}
+
+.section1 input {
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+}
+
+.section1 input::-webkit-input-placeholder {
+  color: #a8a8a8;
+}
+
+.section1 input:-ms-input-placeholder {
+  color: #a8a8a8;
+}
+
+.section1 input::-ms-input-placeholder {
+  color: #a8a8a8;
+}
+
+.section1 input::placeholder {
+  color: #a8a8a8;
+}
+
+.col-time-card1-list {
+  text-align: right;
+}
+
+.time-card1-list {
+  position: relative;
+  top: 10px;
+}
+
+.section2 {
+  margin-top: 30px;
+}
+
+.name-list {
+  font-size: 16px;
+  font-weight: 500;
+  padding-left: 5px;
+}
+
+.card-r1-list {
+  margin-bottom: 10px;
+}
+
+.pic {
+  width: 100%;
+  border-radius: 30px;
+}
+
+.section2 p {
+  font-size: 12px;
+  line-height: 15px;
+  margin: 0;
+  color: #9e9e9e;
+}
+
+.last-p-list {
+  padding-bottom: 20px;
+  border-bottom: 1px rgba(156, 156, 156, .2) solid;
+}
+
+.logo-card-list {
+  margin-top: 10px;
+}
+
+.card-list {
+  padding-bottom: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+}
+
+.group-icon-card-list {
+  padding: 0 10px;
+}
+
+.btn-join-list {
+  font-weight: bold;
+  position: absolute;
+  bottom: 401px;
+  left: 152px;
+  padding: 2px 22px;
+  color: #2c2c2c;
+  border-radius: 50px;
+  background-color: #ffd904;
+}
+
+.text-group-card-list {
+  margin-top: 15px;
+}
+
+.p1-list {
+  position: relative;
+  bottom: 220px;
+}
+
+.p1-list span {
+  font-size: 14px;
+  padding-left: 5px;
+  color: #fff;
+  text-shadow: 0 0 3px #2c2c2c;
+}
+
+.p3-list p {
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 80px;
+  padding: 0 15px;
+  color: #fff;
+  text-shadow: 0 0 3px #2c2c2c;
+}
+
+.p4-list p {
+  font-size: 12px;
+  font-weight: bold;
+  position: relative;
+  bottom: 80px;
+  padding: 0 15px;
+  text-transform: uppercase;
+  color: #ffd904;
+  text-shadow: 0 0 3px #2c2c2c;
+}
+
+.btn-days-list {
+  font-weight: bold;
+  padding: 0 10px;
+  color: #2c2c2c;
+  border-radius: 50px;
+  background-color: #fff;
+}
