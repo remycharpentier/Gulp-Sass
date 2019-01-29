@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .body-login{
     background-image: url("/dist/assets/img/oliver-sjostrom-597489-unsplash.png");
 }
@@ -87,3 +88,211 @@
     text-align: center;
 
 }
+=======
+/*****************SEARCH**********/
+
+.btn-search{
+    position: relative;
+    bottom: 23px;
+    left: 333px;
+    background-color: #fff;
+    border: #fff;
+}
+
+.input-search{
+    width: 343px;
+    border: #fff;
+    padding-left: 50px;
+}
+
+.fleche-search{
+    padding-left: 20px;
+    position: relative;
+    top: 26px;
+}
+
+.choix-search{
+    text-align: center;
+    font-weight: bold;
+}
+
+.trips-search{
+    border-bottom: solid 5px rgb(230, 230, 230);
+}
+
+.people-search{
+    border-bottom: solid 5px rgb(243, 201, 15);
+}
+
+.box-grp-search{
+    margin-top: 40px;
+}
+
+.name-search{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.ta-center{
+    text-align: center;
+}
+
+.btn-follow-search{
+    margin-top: 10px;;
+    font-weight: bold;;
+    border-radius: 50px;
+    padding: 0 20px;
+    border: solid 2px #007bff;
+}
+
+.nav-bar-bot{
+    border-top: rgba(56, 56, 56, 0.1) solid 3px;
+    margin-top: 20px;
+    padding: 20px 0;
+}
+
+.nav-bar-bot2,
+.nav-bar-bot3{
+    border-bottom: rgba(56, 56, 56, 0.4) solid 4px;
+    padding-bottom: 20px;
+}
+
+/***************LIST*********************/
+
+.tilte-list{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.search-bar-list{
+    margin-bottom: 10px;
+}
+
+.loupe-list{
+    position: relative;
+    top: 5px;
+    left: 16px;
+}
+
+.section1 input{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.section1 input::placeholder {
+    color: rgb(168, 168, 168);
+}
+
+.col-time-card1-list{
+    text-align: right;
+}
+
+.time-card1-list{
+    position: relative;
+    top: 10px;
+}
+
+.section2{
+    margin-top: 30px;
+}
+
+.name-list{
+    font-weight: 500;
+    padding-left: 5px;
+    font-size: 16px;
+}
+
+.card-r1-list{
+    margin-bottom: 10px;
+}
+
+.pic{
+    border-radius: 30px;
+    width: 100%;
+}
+
+.section2 p{
+    color: rgb(158, 158, 158);
+    font-size: 12px;
+    margin: 0;
+    line-height: 15px;
+}
+
+.last-p-list{
+    padding-bottom: 20px;
+    border-bottom: 1px rgba(156, 156, 156, 0.2) solid;
+}
+
+.logo-card-list{
+    margin-top: 10px;
+}
+
+.card-list{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 10px;
+}
+
+.group-icon-card-list{
+    padding: 0 10px;
+}
+
+.btn-join-list{
+    background-color: rgb(255, 217, 4);
+    color: #2c2c2c;
+    font-weight: bold;
+    border-radius: 50px;
+    padding: 2px 22px;
+    position: absolute;
+    bottom: 401px;
+    left: 152px;
+}
+
+.text-group-card-list{
+    margin-top: 15px;
+}
+
+.p1-list{
+    position: relative;
+    bottom: 220px; 
+}
+
+.p1-list span{
+    color: #fff;
+    text-shadow: 0 0 3px #2c2c2c;
+    padding-left: 5px;
+    font-size: 14px;
+}
+
+.p2-list{
+
+}
+
+.p3-list p{
+    color: #fff;
+    font-weight: 500;
+    position: relative; 
+    bottom: 80px;
+    padding: 0 15px;
+    text-shadow: 0 0 3px #2c2c2c;
+    font-size: 14px;
+}
+
+.p4-list p{
+    color:  rgb(255, 217, 4);
+    position: relative; 
+    bottom: 80px;
+    padding: 0 15px;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-shadow: 0 0 3px #2c2c2c;
+    font-weight: bold;
+}
+
+.btn-days-list{
+    background-color: #fff;
+    color: #2c2c2c;
+    padding: 0px 10px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+>>>>>>> master
