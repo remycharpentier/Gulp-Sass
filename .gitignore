@@ -1,4 +1,4 @@
-nodes_modules
+/nodes_modules
 .bundle
 .DS_Store
 db/*.sqlite3
