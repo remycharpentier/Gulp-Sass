@@ -1,8 +1,0 @@
-/nodes_modules
-.bundle
-.DS_Store
-db/*.sqlite3
-log/*.log
-tmp/
-public/system/images/
-public/system/avatars/
